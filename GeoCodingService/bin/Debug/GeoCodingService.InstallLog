@@ -1,0 +1,8 @@
+﻿'C:\Users\Master\source\repos\GeoCodingService\GeoCodingService\bin\Debug\GeoCodingService.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\Master\source\repos\GeoCodingService\GeoCodingService\bin\Debug\GeoCodingService.exe
+   logfile = C:\Users\Master\source\repos\GeoCodingService\GeoCodingService\bin\Debug\GeoCodingService.InstallLog
+GeoCodingTimer EventLog kaynağı kaldırılıyor.
+GeoCodingTimer hizmeti sistemden kaldırılıyor...
+GeoCodingTimer hizmeti sistemden başarıyla kaldırıldı.

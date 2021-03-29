@@ -1,0 +1,8 @@
+C:\Users\Master\source\repos\GeoCodingService\GeoCodingService\bin\Release\GeoCodingService.exe.config
+C:\Users\Master\source\repos\GeoCodingService\GeoCodingService\bin\Release\GeoCodingService.exe
+C:\Users\Master\source\repos\GeoCodingService\GeoCodingService\bin\Release\GeoCodingService.pdb
+C:\Users\Master\source\repos\GeoCodingService\GeoCodingService\obj\Release\GeoCodingService.ProjectInstaller.resources
+C:\Users\Master\source\repos\GeoCodingService\GeoCodingService\obj\Release\GeoCodingService.csproj.GenerateResource.cache
+C:\Users\Master\source\repos\GeoCodingService\GeoCodingService\obj\Release\GeoCodingService.csproj.CoreCompileInputs.cache
+C:\Users\Master\source\repos\GeoCodingService\GeoCodingService\obj\Release\GeoCodingService.exe
+C:\Users\Master\source\repos\GeoCodingService\GeoCodingService\obj\Release\GeoCodingService.pdb
